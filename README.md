@@ -4,4 +4,4 @@ The dashboard aims to analyze trends and patterns in COVID-19 data, particularly
 
 *** This project was developed as part of an Vizualization course during my first degree in Digital Medical Tecnologies.
 
-![Dashboard](https://github.com/Noamko128/Vizualization-Project/assets/131696249/0ea89d30-61fb-46bd-bc02-89fdfc7e8f45)
+![covid19 dashboard](https://github.com/Noamko128/Covid19Dashboard-Project/assets/131696249/04a5857b-f0a1-4e17-8c4e-e7f20853c69c)
